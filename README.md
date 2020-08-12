@@ -17,5 +17,5 @@ Time Series Sales Forecasting and Prediction using statistical models such as Au
 1. ARIMAX
 1. SARIMAX
 1. PROPHET
-
-## Among These Models, Extra Tree Regressor achieved the highest score among all methods by 0.78 r^2 score.  
+---
+### Among These Models, Extra Tree Regressor achieved the highest score among all methods by 0.78 r^2 score.  
